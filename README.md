@@ -1,1 +1,1 @@
-Examples for the book 'Data Science in Chemistry, second Edition'
+A collection of Jupiter notebooks for digital chemistry
